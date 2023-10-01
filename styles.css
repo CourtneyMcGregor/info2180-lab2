@@ -1,0 +1,101 @@
+.meee{
+    width: 200px;
+    
+
+}
+
+.reclaim{
+    width: 200px;
+    float: left;
+    padding: 20px;
+}
+
+.peace {
+    width: 200px;
+    float: right;
+    padding: 10px;
+}
+.meee{
+    border: 2px ;
+    padding: 10px;
+    border-radius: 2500px;
+}
+#box2{
+    max-width: 700px;
+
+}
+
+
+.flex-container{
+display:flex;
+ justify-content: center;   
+ align-items: center;
+ background-color: #63B3ED;
+ text-align: center;
+ color: #FFFFFF;
+ height: 380px;
+
+}
+
+.container{width: 1000px;}
+.grid-container {
+    
+    display: grid;
+    grid-template-columns: 700px,100px;
+    grid-template-rows: 700px,100px;
+    grid-gap : 50px;
+    
+}
+main{
+    float: left;
+}
+aside {
+    float: right;
+    max-width: 280px;
+}
+footer{
+    clear: both;
+}
+body {
+ font-size: 18px;
+ color: #2D3748;
+ font-family: -apple-system,BlinkMacSystemFont,"SegoeUI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sansserif ;
+}
+h1{
+    font-size:36px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    font-size: 32px;
+    color: #48BB78;
+}
+.auth{
+   color: #718096;
+}
+.arck{
+    color: #48BB78;
+}
+.abt{
+    color:#000000;
+    
+}
+.abto
+{
+    padding-right: 8px;
+    padding-left: 8px;
+    background-color: #E2E8F0;
+}
+h3{
+    font-family: Georgia,'Times New Roman', Times, serif ;
+}
+a{
+    color:#4299E1;
+}
+li{
+    color:#4299E1;
+}
+footer
+{
+    background-color: #2C5282;
+    color: #FFFFFF;
+}
